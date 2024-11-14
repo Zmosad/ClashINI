@@ -1,9 +1,10 @@
-DOMAIN-SUFFIX,steamserver.net 
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamcontent.com 
 DOMAIN-SUFFIX,steamstatic.com 
 DOMAIN-SUFFIX,test.steampowered.com 
 DOMAIN-SUFFIX,api.steampowered.com 
-DOMAIN-SUFFIX,rmbgame.net 
+GEOIP,CN
+DOMAIN-SUFFIX,rmbgame.net
 PROCESS-NAME,EpicWebHelper.exe 
-DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,cm.steampowered
