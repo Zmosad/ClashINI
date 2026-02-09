@@ -10,13 +10,16 @@ DOMAIN-KEYWORD,ptsbao
 DOMAIN-KEYWORD,springsunday
 DOMAIN-KEYWORD,kelu
 DOMAIN-KEYWORD,hhanclub
+DOMAIN-KEYWORD,cinefiles
+DOMAIN-KEYWORD,audiences
 DOMAIN,pterclub.net
 DOMAIN,kp.m-team.cc
 DOMAIN,www.qingwapt.com
 DOMAIN,ptsbao.club
 DOMAIN,our.kelu.one
 DOMAIN,hhanclub.net
-DOMAIN,audiences
+DOMAIN,audiences.me
+DOMAIN,cinefiles.info
 DOMAIN-SUFFIX,pterclub.net
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ourbits.club
@@ -31,3 +34,4 @@ DOMAIN-SUFFIX,kelu.one
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,cinefiles.info
