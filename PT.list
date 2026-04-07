@@ -26,7 +26,6 @@ DOMAIN,cinefiles.info
 DOMAIN,pt.keepfrds.com
 DOMAIN,hdfans.org
 DOMAIN,hdtime.org
-DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,pterclub.net
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ourbits.club
@@ -44,3 +43,4 @@ DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,cinefiles.info
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hdtime.org
