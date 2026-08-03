@@ -1,10 +1,23 @@
 payload:
+  # ==================== Grok / xAI ====================
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,featureassets.org
+  - DOMAIN-SUFFIX,xai.chronosphere.io
+  - IP-CIDR,17.253.4.125/32
 
-    - DOMAIN-SUFFIX   , x.ai
-    - DOMAIN-SUFFIX   , grok.com
-    
-    - DOMAIN-SUFFIX   , featureassets.org
+  # ==================== Cursor ====================
+  # API、Agent、Tab、登录认证、代码库索引等
+  - DOMAIN-SUFFIX,cursor.sh
 
-    - DOMAIN-SUFFIX   , xai.chronosphere.io
+  # Cursor 官网、登录页面、客户端更新下载
+  - DOMAIN-SUFFIX,cursor.com
 
-    - IP-CIDR         , 17.253.4.125
+  # 扩展市场
+  - DOMAIN-SUFFIX,cursorapi.com
+
+  # 扩展及静态资源 CDN
+  - DOMAIN-SUFFIX,cursor-cdn.com
+
+  # 旧版 Cursor / ToDesktop 更新器兼容
+  - DOMAIN,download.todesktop.com
