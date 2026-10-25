@@ -2,7 +2,6 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,pterclub
 DOMAIN-KEYWORD,ourbits
 DOMAIN-KEYWORD,totheglory
-DOMAIN-KEYWORD,hddolby
 DOMAIN-KEYWORD,qingwapt
 DOMAIN-KEYWORD,monikadesign
 DOMAIN-KEYWORD,anime-no-index
@@ -15,6 +14,7 @@ DOMAIN-KEYWORD,audiences
 DOMAIN-KEYWORD,keepfrds
 DOMAIN-KEYWORD,hdfans
 DOMAIN-KEYWORD,hdtime
+DOMAIN-KEYWORD,uhddolby
 DOMAIN,pterclub.net
 DOMAIN,kp.m-team.cc
 DOMAIN,www.qingwapt.com
@@ -26,6 +26,7 @@ DOMAIN,cinefiles.info
 DOMAIN,pt.keepfrds.com
 DOMAIN,hdfans.org
 DOMAIN,hdtime.org
+DOMAIN,uhddolby.com
 DOMAIN-SUFFIX,pterclub.net
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ourbits.club
@@ -42,5 +43,6 @@ DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,cinefiles.info
 DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,uhddolby.com
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdtime.org
